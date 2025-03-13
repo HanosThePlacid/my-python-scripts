@@ -1,0 +1,81 @@
+{
+  "Élelmiszer": [
+    "tesco",
+    "lidl",
+    "spar",
+    "aldi",
+    "coop",
+    "penny",
+    "cba",
+    "rewe",
+    "auchan"
+  ],
+  "Szórakozás": [
+    "netflix",
+    "spotify",
+    "mozi",
+    "színház",
+    "koncert",
+    "youtube",
+    "hbo",
+    "disney+",
+    "paypal *google youtube",
+    "paypal *twitchinter",
+    "paypal *paddle.net",
+    "paypal *eneba o-yuk4sk"
+  ],
+  "Közlekedés": [
+    "bkk",
+    "máv",
+    "volán",
+    "mol limo",
+    "taxi",
+    "bolt",
+    "uber",
+    "wizz air",
+    "ryanair",
+    "otpmobl*vimpay.mav-sta"
+  ],
+  "Housing": [
+    "bérleti díj",
+    "lakbér",
+    "rezsi",
+    "villany",
+    "gáz",
+    "víz",
+    "távfűtés"
+  ],
+  "Egészség": [
+    "gyógyszertár",
+    "patika",
+    "orvos",
+    "fogorvos",
+    "kórház",
+    "babaúti",
+    "gyermekorvos",
+    "ofote'rt"
+  ],
+  "Technológia": [
+    "alza.cz",
+    "ipon",
+    "gopay",
+    "nyx*cocacolahbcmagyaro"
+  ],
+  "Utalások": [
+    "hargitai",
+    "hargita",
+    "szalay",
+    "botrágyi",
+    "kozsák",
+    "jávor"
+  ],
+  "Egyéb": [
+    "nan",
+    "otpmobl*pcx.hu",
+    "dm",
+    "lipoti"
+  ],
+  "Hit" : [
+    "paypal *supernatura su"
+  ]
+}
